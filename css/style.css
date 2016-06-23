@@ -123,6 +123,13 @@ img.icon {
   margin-top: 12px;
 }
 
+a.jumbolink {
+    text-decoration: underline;
+    color: #121c05;
+}
+
+a.jumbolink:hover {color: #121c05;}
+
 /* Supporting marketing content */
 .marketing {
   margin: 40px 0;
