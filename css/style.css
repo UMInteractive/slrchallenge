@@ -113,6 +113,8 @@ img.icon {
   background-color: #dedede;
   color: #fff;
   border-bottom: 1px solid #7e9f53;
+        text-shadow: 1px 1px 0 #7e9f53;
+
   background: url(../img/background.png)
 }
 .jumbotron .btn {

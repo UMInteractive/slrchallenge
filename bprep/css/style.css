@@ -111,6 +111,8 @@ img.icon {
   border-bottom: 1px;
   background-color: #dedede;
   color: #fff;
+        text-shadow: 1px 1px 0 #e2aa05;
+
   border-bottom: 1px solid #ffcc33;
   background: url(../img/background.png)
 }

@@ -118,7 +118,9 @@ img.icon {
 /*    color: #009898;*/
     color: #fff;
     border-bottom: 1px solid #009898;
-    background: url(../img/pattern.png)
+    background: url(../img/pattern.png);
+        text-shadow: 1px 1px 0 #005757;
+
 }
 .jumbotron .btn {
   padding: 25px 24px;
