@@ -1,6 +1,7 @@
 
 #notes li {
     position: relative;
+    list-style-type: none;
     width: 300px;
     min-height: 100px;
     margin: 25px auto;
