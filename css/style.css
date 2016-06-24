@@ -18,6 +18,10 @@ h4.feat {
   padding-top: 10px;
 }
 
+.app-logo-home {
+    margin-bottom: 10px;
+}
+
 h3.feat {
   background-color: #000000;
   padding: 12px;
@@ -129,6 +133,10 @@ a.jumbolink {
 }
 
 a.jumbolink:hover {color: #121c05;}
+
+.jumbotron p.submain {
+    font-size: 22px;
+}
 
 /* Supporting marketing content */
 .marketing {
